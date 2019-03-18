@@ -1,0 +1,11 @@
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\bin\Debug\cadastroLivros.exe.config
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\bin\Debug\cadastroLivros.exe
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\bin\Debug\cadastroLivros.pdb
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.csprojResolveAssemblyReference.cache
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.Properties.Resources.resources
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.csproj.GenerateResource.Cache
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.exe
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.pdb
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.frmInclusao.resources
+c:\users\2ainfo.basilides\documents\visual studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.frmInicio.resources
+C:\Users\2ainfo.BASILIDES\Documents\Visual Studio 2013\Projects\cadastroLivros\cadastroLivros\obj\Debug\cadastroLivros.frmConsulta.resources
